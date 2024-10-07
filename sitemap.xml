@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://huywang.github.io/2023/10/15/%E6%8B%94%E7%89%99%E8%AE%B0/</loc>
+    <loc>https://huywang.github.io/2024/10/07/%E5%9B%BD%E5%BA%86%E8%A7%81%E9%97%BB/</loc>
+    
+    <lastmod>2024-10-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huywang.github.io/2022/05/16/%E6%8B%94%E7%89%99%E8%AE%B0/</loc>
     
     <lastmod>2024-09-22</lastmod>
     
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://huywang.github.io/2022/05/22/categories/</loc>
-    
-    <lastmod>2022-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://huywang.github.io/tags/index.html</loc>
     
     <lastmod>2022-05-22</lastmod>
@@ -94,7 +94,7 @@
 
   <url>
     <loc>https://huywang.github.io/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,7 +102,7 @@
   
   <url>
     <loc>https://huywang.github.io/tags/%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
